@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "uuid": "^3.3.3",
-    "ws": "^7.1.2"
+    "ws": "^7.4.6"
   },
   "scripts": {
     "start": "nodemon src/server.js"
